@@ -19,13 +19,6 @@ This responsive website showcases my work, projects, and background as a BSc IT 
 - Custom responsive styling
 - GitHub Pages for deployment
 
-## 🧠 My Mantra
-
-> “Inspired to grow, Driven to succeed.”
-
-## 📌 Live Demo
-
-> [https://chloewilson.github.io/chloe-portfolio](https://chloewilson.github.io/chloe-portfolio)
 
 > Built with ☕, creativity, and the drive to keep growing.
 
